@@ -1,3 +1,1 @@
-print("prueba ojo")
-
-print("Segunda prueba")
+print ("prueba 88")
